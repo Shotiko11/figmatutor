@@ -15,7 +15,8 @@ A) we can just import any figma file inside figma.com and its super easy, with d
 ##  3) Figma Part 3
 ###### 3) What is Lo Fi vs Hi Fi
 
-A) Lo Fi is created easily just a bones and done in minutes, but Hi Fi is work for 3 hours or more, and it is exactly what design web wants!
+A) Lo Fi is created easily just a bones and done in minutes, boring color boring font... not much work
+B) Hi Fi is work for 3 hours or more, and it is exactly what design web wants! much work!
 
 
 ##  3) Figma Part 3
