@@ -20,5 +20,10 @@ B) Hi Fi is work for 3 hours or more, and it is exactly what design web wants! m
 
 
 ##  3) Figma Part 3
-###### 3) What is Lo Fi vs Hi Fi
-A)
+###### 3) Introducing Frames (Page)
+A) Frames are on the left top corner in rectangle shape
+B) When i click on frame, on the right side there will be options for Dekstop, Iphone, Watch or something where our website must be opened!
+C) When i click on any specific option, i will see a rectangle which i can use as a my webpage, where i can put text and pictures!
+
+A) For example, when i chose "Iphone 8", then on the left corner i can give a name to that rectangle, for example "HomePage"
+B) now i can put 4 Pages of "Iphone 8" size of screen on figma, so i can use it how i want my website to open in "iphone 8"
