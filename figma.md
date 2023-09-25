@@ -1,4 +1,4 @@
 # Figma Full Course
 
-##  2) Figma Part 1
-###### 2) 
+##  1) Figma Part 1
+###### 1) 
