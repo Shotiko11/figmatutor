@@ -21,23 +21,23 @@ B) Hi Fi is work for 3 hours or more, and it is exactly what design web wants! m
 
 ##  3) Figma Part 3
 ###### 3) Introducing Frames (Page)
-A) Frames are on the left top corner in rectangle shape
-B) When i click on frame, on the right side there will be options for Dekstop, Iphone, Watch or something where our website must be opened!
-C) When i click on any specific option, i will see a rectangle which i can use as a my webpage, where i can put text and pictures!
+ - Frames are on the left top corner in rectangle shape
+ - When i click on frame, on the right side there will be options for Dekstop, Iphone, Watch or something where our website must be opened!
+ - When i click on any specific option, i will see a rectangle which i can use as a my webpage, where i can put text and pictures!
 
-A) For example, when i chose "Iphone 8", then on the left corner i can give a name to that rectangle, for example "HomePage"
-B) now i can put 4 Pages of "Iphone 8" size of screen on figma, so i can use it how i want my website to open in "iphone 8"
-c) when i am putting some text on the page, its better to do with this sign on right : ⇔
+ - For example, when i chose "Iphone 8", then on the left corner i can give a name to that rectangle, for example "HomePage"
+ -  now i can put 4 Pages of "Iphone 8" size of screen on figma, so i can use it how i want my website to open in "iphone 8"
+ - when i am putting some text on the page, its better to do with this sign on right : ⇔
 
-A) so all of the styles are, when you select the text styles appear on the right!
+ - so all of the styles are, when you select the text styles appear on the right!
 
 
 ##  4) Figma Part 4
 ###### 4) Using color
 
-A) Text and rectangle has color in figma. when i select anything on the right there will appear "fill" which can help to paint anything.
-B) also if you want to see what color is anything, when we click on color there is a "PEN" take this pen and see any color exactly!
-c) The Percentage on right from color, is how bold we want our color!
+ - Text and rectangle has color in figma. when i select anything on the right there will appear "fill" which can help to paint anything.
+ - also if you want to see what color is anything, when we click on color there is a "PEN" take this pen and see any color exactly!
+ - The Percentage on right from color, is how bold we want our color!
 
 ##  5) Figma Part 5
 ###### 5) Strokes & color defaults
