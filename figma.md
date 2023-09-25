@@ -1,4 +1,12 @@
 # Figma Full Course
 
 ##  1) Figma Part 1
+###### 1) difference between UI and UX
+A) UI is the way something looks, just how something is looking
+B) UX is the how it works?
+
+C) for example, if we make a button in UI, UX asks questions: is it big enough? can i click on it? and questions like that
+
+
+##  1) Figma Part 2
 ###### 1) 
