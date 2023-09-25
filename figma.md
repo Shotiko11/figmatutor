@@ -29,6 +29,7 @@ A) For example, when i chose "Iphone 8", then on the left corner i can give a na
 B) now i can put 4 Pages of "Iphone 8" size of screen on figma, so i can use it how i want my website to open in "iphone 8"
 c) when i am putting some text on the page, its better to do with this sign on right : ⇔
 
+A) so all of the styles are, when you select the text styles appear on the right!
 
 
 ##  4) Figma Part 4
