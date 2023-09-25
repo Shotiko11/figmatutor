@@ -40,6 +40,6 @@ B) also if you want to see what color is anything, when we click on color there 
 c) The Percentage on right from color, is how bold we want our color!
 
 ##  5) Figma Part 5
-###### 5) 
+###### 5) Strokes & color defaults
 
 A)
