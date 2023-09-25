@@ -27,3 +27,10 @@ C) When i click on any specific option, i will see a rectangle which i can use a
 
 A) For example, when i chose "Iphone 8", then on the left corner i can give a name to that rectangle, for example "HomePage"
 B) now i can put 4 Pages of "Iphone 8" size of screen on figma, so i can use it how i want my website to open in "iphone 8"
+c) when i am putting some text on the page, its better to do with this sign on right : ⇔
+
+
+
+##  4) Figma Part 4
+###### 4) 
+A)
