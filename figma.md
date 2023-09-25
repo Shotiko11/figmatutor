@@ -34,4 +34,12 @@ A) so all of the styles are, when you select the text styles appear on the right
 
 ##  4) Figma Part 4
 ###### 4) Using color
+
+A) Text and rectangle has color in figma. when i select anything on the right there will appear "fill" which can help to paint anything.
+B) also if you want to see what color is anything, when we click on color there is a "PEN" take this pen and see any color exactly!
+c) The Percentage on right from color, is how bold we want our color!
+
+##  5) Figma Part 5
+###### 5) 
+
 A)
