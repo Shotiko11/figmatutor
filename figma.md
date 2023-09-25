@@ -33,5 +33,5 @@ A) so all of the styles are, when you select the text styles appear on the right
 
 
 ##  4) Figma Part 4
-###### 4) 
+###### 4) Using color
 A)
