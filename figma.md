@@ -10,9 +10,14 @@ C) for example, if we make a button in UI, UX asks questions: is it big enough? 
 
 ##  2) Figma Part 2
 ###### 2) How To Create My Own Brief
-a) we can just import any figma file inside figma.com and its super easy, with double click i will continue designing 
+A) we can just import any figma file inside figma.com and its super easy, with double click i will continue designing 
 
 ##  3) Figma Part 3
-###### 3) How To Create My Own Brief
+###### 3) What is Lo Fi vs Hi Fi
 
-a)
+A) Lo Fi is created easily just a bones and done in minutes, but Hi Fi is work for 3 hours or more, and it is exactly what design web wants!
+
+
+##  3) Figma Part 3
+###### 3) What is Lo Fi vs Hi Fi
+A)
