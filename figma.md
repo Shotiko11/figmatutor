@@ -126,7 +126,7 @@ A) For icons i can use [This Website](https://www.iconfinder.com/)
 
 B) Then we can choose any of **icon** and download it, we cna choose also pixels
 
-C) on doubleclick i can change icon however i want
+C) when i doubleclick on icon, i can change icon however i want.
 
 .
 
@@ -137,7 +137,19 @@ C) on doubleclick i can change icon however i want
 .
 
 ## 9) Figma Part 8
-###### 9) Icons in figma
+###### 9) Prototype figma
+
+1) Prototype is for example to open your figma in **iphone 8**, for just a test
+
+2) 
+
+.
+
+.
+
+.
+
+.
 
 1) if i want straight line, i should use **Shift** and **mouse**
 
