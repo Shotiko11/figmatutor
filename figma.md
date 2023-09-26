@@ -52,3 +52,7 @@ A)
 1) if i want straight line, i should use -Shift- and -mouse-
 
 2) if i want to grow rectangle from the left and right with same distane, i should use -ALT- and -mouse-
+
+3) when i use -alt- and -mouse- (dublicate anything), and if i use additional command: -CTRL- and D, there will be a dublicate again.
+
+4)
