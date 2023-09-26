@@ -136,12 +136,44 @@ C) when i doubleclick on icon, i can change icon however i want.
 
 .
 
-## 9) Figma Part 8
+## 9) Figma Part 9
 ###### 9) Prototype figma
 
 1) Prototype is for example to open your figma in **iphone 8**, for just a test
 
-2) 
+2) then we select the **Home page** and we will see the little dot on the right of that.
+
+3) then we should connect that **pages** to each other with that little dot on right.
+
+4) then we will click on the word **home page** and then click on ***present*** on the right top corner.
+
+5) now w eshould see our figmmas inside the **iphone 8**! os thats done!
+
+.
+
+.
+
+.
+
+.
+
+## 10) Figma Part 10
+###### 10) Prototype figma
+
+1)
+
+.
+
+.
+
+.
+
+.
+
+## 11) Figma Part 11
+###### 11) Prototype figma
+
+1)
 
 .
 
