@@ -44,8 +44,13 @@ B) **Hi Fi** is work for 3 hours or more, and it is exactly what design web want
 
 A) if i want to edit object, i should select my object for example rectangle and click on **edit object** on the top
 
+B) if i get stuck, i should double click background of that object and click **DELETE**
 
 
+##  6) Figma Part 6
+###### 6) Scale vs selection 
+
+A) 
 
 
 
