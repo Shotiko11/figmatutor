@@ -124,7 +124,9 @@ B) if i want **"overflow:hidden"**, after that "frame selection", i should selec
 
 A) For icons i can use [This Website](https://www.iconfinder.com/)
 
-B)
+B) Then we can choose any of **icon** and download it, we cna choose also pixels
+
+C) on doubleclick i can change icon however i want
 
 .
 
@@ -134,6 +136,8 @@ B)
 
 .
 
+## 9) Figma Part 8
+###### 9) Icons in figma
 
 1) if i want straight line, i should use **Shift** and **mouse**
 
