@@ -62,6 +62,13 @@ A) when i have for example 5 rectangle and i want to make it under one **PARENT*
 B) if i want **"overflow:hidden"**, after that "frame selection", i should select **CLIP CONTENT** on the right bar under the sizes
 
 
+
+## 8) Figma Part 8
+###### 8) Icons in figma
+
+A) 
+
+
 1) if i want straight line, i should use **Shift** and **mouse**
 
 2) if i want to grow rectangle from the left and right with same distane, i should use **ALT** and **mouse**
