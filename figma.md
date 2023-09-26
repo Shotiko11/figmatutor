@@ -7,12 +7,13 @@ B) **UX** is the how it works?
 
 C) for example, if we make a button in UI, UX asks questions: is it big enough? can i click on it? and questions like that
 
-...
-...
-...
-...
-...
-...
+```javascript
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+```
 
 
 ##  2) Figma Part 2
