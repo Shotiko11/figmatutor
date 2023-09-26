@@ -43,3 +43,12 @@ B) Hi Fi is work for 3 hours or more, and it is exactly what design web wants! m
 ###### 5) Strokes & color defaults
 
 A)
+
+
+
+
+
+
+1) if i want straight line, i should use -Shift- and -mouse-
+
+2) if i want to grow rectangle from the left and right with same distane, i should use -ALT- and -mouse-
