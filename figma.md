@@ -35,9 +35,9 @@ B) **Hi Fi** is work for 3 hours or more, and it is exactly what design web want
 ##  4) Figma Part 4
 ###### 4) Using color
 
- 1) Text and rectangle has color in figma. when i select anything on the right there will appear **fill** which can help to paint anything.
- 2) also if you want to see what color is anything, when we click on color there is a "PEN" take this pen and see any color exactly!
- 3) The Percentage on right from color, is how bold we want our color!
+ A) Text and rectangle has color in figma. when i select anything on the right there will appear **fill** which can help to paint anything.
+ B) also if you want to see what color is anything, when we click on color there is a "PEN" take this pen and see any color exactly!
+ C) The Percentage on right from color, is how bold we want our color!
 
 ##  5) Figma Part 5
 ###### 5) Object editing
@@ -55,4 +55,4 @@ A) if i want to edit object, i should select my object for example rectangle and
 
 3) when i use **alt** and **mouse** (dublicate anything), and if i use additional command: **CTRL** and **D**, there will be a dublicate again.
 
-4)
+4) 
