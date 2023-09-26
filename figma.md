@@ -66,7 +66,7 @@ B) if i want **"overflow:hidden"**, after that "frame selection", i should selec
 ## 8) Figma Part 8
 ###### 8) Icons in figma
 
-A) 
+A) For icons i can use [This Website](https://www.iconfinder.com/)
 
 
 1) if i want straight line, i should use **Shift** and **mouse**
