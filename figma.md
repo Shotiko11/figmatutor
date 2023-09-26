@@ -15,10 +15,17 @@ C) for example, if we make a button in UI, UX asks questions: is it big enough? 
 
 .
 
-
 ##  2) Figma Part 2
 ###### 2) How To Create My Own Brief
 A) we can just import any figma file inside figma.com and its super easy, with double click i will continue designing 
+
+.
+
+.
+
+.
+
+.
 
 ##  3) Figma Part 3
 ###### 3) What is Lo Fi vs Hi Fi
@@ -26,6 +33,13 @@ A) we can just import any figma file inside figma.com and its super easy, with d
 A) **Lo Fi** is created easily just a bones and done in minutes, boring color boring font... not much work
 B) **Hi Fi** is work for 3 hours or more, and it is exactly what design web wants! much work!
 
+.
+
+.
+
+.
+
+.
 
 ##  3) Figma Part 3
 ###### 3) Introducing Frames (Page)
@@ -39,6 +53,13 @@ B) **Hi Fi** is work for 3 hours or more, and it is exactly what design web want
 
  G) so all of the styles are, when you select the text styles appear on the right!
 
+.
+
+.
+
+.
+
+.
 
 ##  4) Figma Part 4
 ###### 4) Using color
@@ -47,6 +68,14 @@ B) **Hi Fi** is work for 3 hours or more, and it is exactly what design web want
  B) also if you want to see what color is anything, when we click on color there is a "PEN" take this pen and see any color exactly!
  C) The Percentage on right from color, is how bold we want our color!
 
+.
+
+.
+
+.
+
+.
+
 ##  5) Figma Part 5
 ###### 5) Object editing
 
@@ -54,13 +83,26 @@ A) if i want to edit object, i should select my object for example rectangle and
 
 B) if i get stuck, i should double click background of that object and click **DELETE**
 
+.
+
+.
+
+.
+
+.
 
 ##  6) Figma Part 6
 ###### 6) Scale vs selection 
 
 A) when i select for example rectangle, i should click left top corner on **SCALE**,if i want to grow it in size or something.
 
+.
 
+.
+
+.
+
+.
 
 ##  7) Figma Part 7
 ###### 7) Frames vs Groups
@@ -69,12 +111,28 @@ A) when i have for example 5 rectangle and i want to make it under one **PARENT*
 
 B) if i want **"overflow:hidden"**, after that "frame selection", i should select **CLIP CONTENT** on the right bar under the sizes
 
+.
 
+.
+
+.
+
+.
 
 ## 8) Figma Part 8
 ###### 8) Icons in figma
 
 A) For icons i can use [This Website](https://www.iconfinder.com/)
+
+B)
+
+.
+
+.
+
+.
+
+.
 
 
 1) if i want straight line, i should use **Shift** and **mouse**
