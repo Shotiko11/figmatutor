@@ -57,7 +57,9 @@ A) when i select for example rectangle, i should click left top corner on **SCAL
 ##  7) Figma Part 7
 ###### 7) Frames vs Groups
 
-A)
+A) when i have for example 5 rectangle and i want to make it under one **PARENT**, i should select that 5 rectangle, right mouse click, and "Frame Selection"
+
+B) if i want **"overflow:hidden"**, after that "frame selection", i should select **CLIP CONTENT** on the right bar under the sizes
 
 
 1) if i want straight line, i should use **Shift** and **mouse**
