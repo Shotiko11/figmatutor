@@ -50,8 +50,14 @@ B) if i get stuck, i should double click background of that object and click **D
 ##  6) Figma Part 6
 ###### 6) Scale vs selection 
 
-A) 
+A) when i select for example rectangle, i should click left top corner on **SCALE**,if i want to grow it in size or something.
 
+
+
+##  7) Figma Part 7
+###### 7) Frames vs Groups
+
+A)
 
 
 1) if i want straight line, i should use **Shift** and **mouse**
