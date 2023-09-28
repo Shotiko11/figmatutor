@@ -171,7 +171,7 @@ C) when i doubleclick on icon, i can change icon however i want.
 .
 
 ## 11) Figma Part 11
-###### 11) Prototype figma
+###### 11)
 
 1)
 
